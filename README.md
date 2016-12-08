@@ -1,5 +1,5 @@
 #Learning OpenCV 3 Application Development
-This is the code repository for [Learning OpenCV 3 Application Development](https://www.packtpub.com/application-development/learning-opencv-3-application-development?utm_source=github&utm_medium=repository&utm_campaign=9781784391454), published by [Packt]((https://www.packtpub.com). It contains all the supporting project files necessary to work through the book from start to finish.
+This is the code repository for [Learning OpenCV 3 Application Development](https://www.packtpub.com/application-development/learning-opencv-3-application-development?utm_source=github&utm_medium=repository&utm_campaign=9781784391454), published by [Packt](https://www.packtpub.com). It contains all the supporting project files necessary to work through the book from start to finish.
 ## About the Book
 Building upon this, we introduce slightly more advanced image processing concepts such as filtering, thresholding, and edge detection. In the latter parts, the book touches upon more complex and ubiquitous concepts such as face detection (using Haar cascade classifiers), interest point detection algorithms, and feature descriptors. You will now begin to appreciate the true power of the library in how it reduces mathematically non-trivial algorithms to a single line of code!
 ##Instructions and Navigations
