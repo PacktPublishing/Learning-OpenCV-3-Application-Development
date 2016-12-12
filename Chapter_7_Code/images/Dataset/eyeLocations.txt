@@ -1,0 +1,24 @@
+images/Dataset/Emma_Watson_0002.jpg
+105 113
+151 113
+images/Dataset/Jennifer_Aniston_0016.jpg
+105 109
+147 111
+images/Dataset/JK_Rowling_0005.jpg
+102 115
+143 112
+images/Dataset/Kalpana_Chawla_0005.jpg
+102 115
+149 114
+images/Dataset/George_W_Bush_0011.jpg
+103 121
+141 108
+images/Dataset/Paul_McCartney_0006.jpg
+103 113
+145 117
+images/Dataset/Sourav_Ganguly_0004.jpg
+106 110
+145 110
+images/Dataset/Tom_Cruise_0006.jpg
+105 107
+149 115

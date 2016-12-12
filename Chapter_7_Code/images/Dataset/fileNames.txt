@@ -1,0 +1,9 @@
+images/Dataset/Howard_Dean_0001.jpg
+images/Dataset/Emma_Watson_0002.jpg
+images/Dataset/Jennifer_Aniston_0016.jpg
+images/Dataset/JK_Rowling_0005.jpg
+images/Dataset/Kalpana_Chawla_0005.jpg
+images/Dataset/George_W_Bush_0011.jpg
+images/Dataset/Paul_McCartney_0006.jpg
+images/Dataset/Sourav_Ganguly_0004.jpg
+images/Dataset/Tom_Cruise_0006.jpg
