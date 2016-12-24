@@ -1,7 +1,12 @@
 #Learning OpenCV 3 Application Development
 This is the code repository for [Learning OpenCV 3 Application Development](https://www.packtpub.com/application-development/learning-opencv-3-application-development?utm_source=github&utm_medium=repository&utm_campaign=9781784391454), published by [Packt](https://www.packtpub.com). It contains all the supporting project files necessary to work through the book from start to finish.
 ## About the Book
-Building upon this, we introduce slightly more advanced image processing concepts such as filtering, thresholding, and edge detection. In the latter parts, the book touches upon more complex and ubiquitous concepts such as face detection (using Haar cascade classifiers), interest point detection algorithms, and feature descriptors. You will now begin to appreciate the true power of the library in how it reduces mathematically non-trivial algorithms to a single line of code!
+Computer vision and machine learning concepts are frequently used in practical computer vision based projects. If you’re a novice, this book provides the steps to build and deploy an end-to-end application in the domain of computer vision using OpenCV/C++.
+
+At the outset, we explain how to install OpenCV and demonstrate how to run some simple programs. You will start with images (the building blocks of image processing applications), and see how they are stored and processed by OpenCV. You’ll get comfortable with OpenCV-specific jargon (Mat Point, Scalar, and more), and get to know how to traverse images and perform basic pixel-wise operations. Building upon this, we introduce slightly more advanced image processing concepts such as filtering, thresholding, and edge detection. In the latter parts, the book touches upon more complex and ubiquitous concepts such as face detection (using Haar cascade classifiers) and feature descriptors. You will now begin to appreciate the true power of the library in how it reduces mathematically non-trivial algorithms to a single line of code.
+
+The concluding sections touch upon OpenCV’s Machine Learning module. You will witness not only how OpenCV helps you pre-process and extract features from images that are relevant to the problems you are trying to solve, but also how to use Machine Learning algorithms that work on these features to make intelligent predictions from visual data!
+
 ##Instructions and Navigations
 All of the code is organized into folders. Each folder starts with a number followed by the application name. For example, Chapter02.
 
