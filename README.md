@@ -1,7 +1,3 @@
-## [Get this title for $10 on Packt's Spring Sale](https://www.packt.com/B04053?utm_source=github&utm_medium=packt-github-repo&utm_campaign=spring_10_dollar_2022)
------
-For a limited period, all eBooks and Videos are only $10. All the practical content you need \- by developers, for developers
-
 #Learning OpenCV 3 Application Development
 This is the code repository for [Learning OpenCV 3 Application Development](https://www.packtpub.com/application-development/learning-opencv-3-application-development?utm_source=github&utm_medium=repository&utm_campaign=9781784391454), published by [Packt](https://www.packtpub.com). It contains all the supporting project files necessary to work through the book from start to finish.
 ## About the Book
